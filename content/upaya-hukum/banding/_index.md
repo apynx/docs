@@ -7,7 +7,11 @@ weight: 11
 
 ![Form Upaya Hukum Banding](images/form-banding.png)
 
-Form Upaya Hukum Banding ini hanya dapat diakses melalui form Terdakwa. Anda **tidak diberikan** hak akses untuk membuka form ini tanpa melewati form Terdakwa terlebih dahulu. Untuk membukanya, silahkan pelajari kembali bagaimana cara mengakses form Banding.
+Form Upaya Hukum Banding ini hanya dapat diakses melalui form Terdakwa. Anda **tidak diberikan** hak akses untuk membuka form ini tanpa melewati form Terdakwa terlebih dahulu. Untuk membukanya, silahkan pelajari kembali bagaimana [cara mengakses form Banding]({{%relref "input/terdakwa/_index.md#tombol-upaya-hukum" %}}).
+
+Bukalah form Terdakwa yang ingin mengajukan upaya hukum Banding. Dalam contoh kasus ini Terdakwa Ari Andriawan hendak melakukan Banding, maka klik pada tombol "**Banding**" yang tersedia di area panel sebelah kanan. Bagian-bagian form Banding dapat dilihat pada tulisan di bawah.
+
+![Contoh Terdakwa mengajukan Banding](images/terdakwa-banding.png)
 
 {{% notice info %}}
 Form upaya hukum Banding ini terkorelasi atau terhubung sesuai dengan data Terdakwa. Jika Terdakwa A mengajukan upaya hukum Banding, maka form Banding **hanya** akan mengampilkan data Banding untuk Terdakwa A saja.

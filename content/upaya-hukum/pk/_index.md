@@ -7,7 +7,11 @@ weight: 13
 
 ![Form Upaya Hukum PK](images/form-pk.png)
 
-Form Upaya Hukum Peninjauan Kembali (PK) ini hanya dapat diakses melalui form Terdakwa. Anda **tidak diberikan** hak akses untuk membuka form ini tanpa melewati form Terdakwa terlebih dahulu. Untuk membukanya, silahkan pelajari kembali bagaimana cara mengakses form PK.
+Form Upaya Hukum Peninjauan Kembali (PK) ini hanya dapat diakses melalui form Terdakwa. Anda **tidak diberikan** hak akses untuk membuka form ini tanpa melewati form Terdakwa terlebih dahulu. Untuk membukanya, silahkan pelajari kembali bagaimana [cara mengakses form PK]({{%relref "input/terdakwa/_index.md#tombol-upaya-hukum" %}}).
+
+Bukalah form Terdakwa yang ingin mengajukan upaya hukum PK. Dalam contoh kasus ini Terdakwa Ari Andriawan hendak melakukan PK, maka klik pada tombol "**PK**" yang tersedia di area panel sebelah kanan. Bagian-bagian form PK dapat dilihat pada tulisan di bawah.
+
+![Contoh Terdakwa mengajukan PK](images/terdakwa-pk.png)
 
 {{% notice info %}}
 Form upaya hukum PK terkorelasi atau terhubung sesuai dengan data Terdakwa. Jika Terdakwa A mengajukan upaya hukum PK, maka form PK **hanya** akan mengampilkan data PK untuk Terdakwa bersangkutan saja.

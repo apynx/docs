@@ -7,7 +7,11 @@ weight: 12
 
 ![Form Upaya Hukum Kasasi](images/form-kasasi.png)
 
-Form Upaya Hukum Kasasi ini hanya dapat diakses melalui form Terdakwa. Anda **tidak diberikan** hak akses untuk membuka form ini tanpa melewati form Terdakwa terlebih dahulu. Untuk membukanya, silahkan pelajari kembali bagaimana cara mengakses form Kasasi.
+Form Upaya Hukum Kasasi ini hanya dapat diakses melalui form Terdakwa. Anda **tidak diberikan** hak akses untuk membuka form ini tanpa melewati form Terdakwa terlebih dahulu. Untuk membukanya, silahkan pelajari kembali bagaimana [cara mengakses form Kasasi]({{%relref "input/terdakwa/_index.md#tombol-upaya-hukum" %}}).
+
+Bukalah form Terdakwa yang ingin mengajukan upaya hukum Kasasi. Dalam contoh kasus ini Terdakwa Ari Andriawan hendak melakukan Kasasi, maka klik pada tombol "**Kasasi**" yang tersedia di area panel sebelah kanan. Bagian-bagian form Kasasi dapat dilihat pada tulisan di bawah.
+
+![Contoh Terdakwa mengajukan Kasasi](images/terdakwa-kasasi.png)
 
 {{% notice info %}}
 Form upaya hukum Kasasi ini terkorelasi atau terhubung sesuai dengan data Terdakwa. Jika Terdakwa A mengajukan upaya hukum Kasasi, maka form Kasasi **hanya** akan mengampilkan data Kasasi untuk Terdakwa bersangkutan saja.
